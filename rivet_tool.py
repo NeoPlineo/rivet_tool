@@ -1,3 +1,21 @@
+"""
+rivet_tool.py
+
+Descripción breve:
+    Herramienta para automatizar la creación y gestión de rivets.
+
+Autor:
+    Neo
+
+Fecha:
+    2025-12-28
+
+Uso:
+    Crea locators vacios en un grupo unicamente en superficies
+
+Notas:
+    Script heredado.
+"""
 '''
 ////////////////////////////////////////////////////////////////
 ----------------------------------------------------------------
